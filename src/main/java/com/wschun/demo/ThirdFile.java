@@ -6,5 +6,6 @@ package com.wschun.demo;
 public class ThirdFile {
     public static void main(String[] args) {
         System.out.println("thrid java");
+        System.out.println("helllo ");
     }
 }
